@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a MERN stack developer in Orlando, FL. 
+I am a MERN stack developer in Orlando, FL. I'm open for opportunities local or remote. More about me at davidquintero.dev 🧑🏻‍💻
 
 <!--
 **instanetk/instanetk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
