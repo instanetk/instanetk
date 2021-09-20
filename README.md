@@ -1,4 +1,4 @@
-[![header image astronaut](astro.png "astronaut")](https://davidquintero.dev)
+[![header image astronaut](astro.png "click to visit my developer portfolio")](https://davidquintero.dev)
 
 
 ### Hi there 👋
