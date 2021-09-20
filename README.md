@@ -1,4 +1,4 @@
-![header image astronaut](astro.png "astronaut")
+[![header image astronaut](astro.png "astronaut")](https://davidquintero.dev)
 
 
 ### Hi there 👋
