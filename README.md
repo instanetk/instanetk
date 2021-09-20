@@ -1,6 +1,10 @@
+![header image astronaut](astro.png "astronaut")
+
+
 ### Hi there 👋
 
 I am a MERN stack developer in Orlando, FL. I'm open for opportunities local or remote. More about me at <a href="https://davidquintero.dev">davidquintero.dev</a> 🧑🏻‍💻
+
 
 <!--
 **instanetk/instanetk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
