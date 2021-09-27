@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=instanetk&show_icons=true&count_private=true" width="450" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=instanetk&layout=compact/" width="208" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api?username=instanetk&show_icons=true&count_private=true" width="100%" height="auto"/>
 
 [![header image astronaut](astro.png 'click to visit my developer portfolio')](https://davidquintero.dev)
 
