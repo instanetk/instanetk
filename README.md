@@ -1,10 +1,22 @@
-[![header image astronaut](astro.png 'click to visit my developer portfolio')](https://davidquintero.dev)
+### Hello! 👋
 
-### Hi there 👋
+I am a software developer in Orlando, FL who is also:
 
-I am a MERN stack developer in Orlando, FL. I'm open for opportunities local or remote. More about me at <a href="https://davidquintero.dev">davidquintero.dev</a> 🧑🏻‍💻
+- 💍 a Lord of the Rings nerd
+- 🦄 a mythology lover
+- 📚 a book hoarder
+- 📿 a dharma student
+- 🏃🏻‍♂️ a runner
+- 🌳 a forest and nature lover
+- 🐕 a dog person
+- 🐈 a cat person
+- 🦉 an owl admirer
+- 🇫🇷 a francophile
+- 🌌 a scifi geek
+- 🧬 a transhumanist
+- ✍🏻 a writer
 
-<img src="https://github-readme-stats.vercel.app/api?username=instanetk&show_icons=true&count_private=true&hide=prs" width="500" height="auto"/>
+Nice to meet you!
 
 <!--
 **instanetk/instanetk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
